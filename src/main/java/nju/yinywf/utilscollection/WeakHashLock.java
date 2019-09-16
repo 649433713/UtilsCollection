@@ -1,4 +1,4 @@
-package com.superid.workflow.common.util;
+package nju.yinywf.utilscollection;
 
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
