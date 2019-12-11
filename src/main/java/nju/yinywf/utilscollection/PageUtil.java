@@ -1,4 +1,4 @@
-package com.nju.aop.utils;
+package nju.yinywf.utilscollection;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
